@@ -1,1 +1,1 @@
-Last-year economics student. This page should help me organise my code.
+This page should help me organise my code and my projects.
